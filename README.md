@@ -1,5 +1,4 @@
-# info
-A personal site for sharing info with Public
+info: A personal site for sharing info with Public
 
 # Hi, I'm aka. MrBrowner! 👋
 
