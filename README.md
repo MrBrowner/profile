@@ -1,4 +1,4 @@
-# portfolio
+# info
 A personal site for sharing info with Public
 
 # Hi, I'm aka. MrBrowner! 👋
